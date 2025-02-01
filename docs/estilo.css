@@ -4,8 +4,8 @@
       height: 200px;
       object-fit: cover;
     }
-
 	#foto2 {
+
 	width: 500px;
       height: 200px;
       object-fit: cover;
@@ -23,6 +23,8 @@
 
 	}
 		
- img#foto2 { float: right;
+ img#foto2 { 
+
+		float: right;
 
  }
