@@ -1,39 +1,35 @@
+#foto {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
 
-    #foto {
-      width: 200px;
-      height: 200px;
-      object-fit: cover;
-    }
-	#foto2 {
+#foto2 {
+  width: 500px;
+  height: 200px;
+  object-fit: cover;
+}
 
-	width: 500px;
-      height: 200px;
-      object-fit: cover;
-	}
+body {
+  background-color: #008B8B;
+}
 
-	body {
+img#foto2 {
+  float: right;
+}
 
-	background-color: #008B8B;
+header {
+  text-align: center;
+  display: block; 
+  height: auto;
+  margin-bottom: 20px;
+}
 
-	}
-		
- img#foto2 { 
+h1 {
+  text-align: center;
+}
 
-		float: right;
-
- }
-
-	header { 
-
-		text-align: center;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 100vh;
-		clear: both;
-	}
-
-	h1 {
-text-align: center;
-
-	}
+#vídeo-orochinho iframe {
+  width: 100%;
+  height: 315px;
+}
