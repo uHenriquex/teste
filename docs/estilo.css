@@ -16,29 +16,18 @@
 	background-color: blue;
 
 	}
-
-	p {
-		text-align: center;
-		color: white;
-
-	}
-
-	#vídeo-orochinho {
-
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 100vh;
-	}
-
-
-	h1 {
-
-		text-aling: center;
-	}
 		
  img#foto2 { 
 
 		float: right;
 
  }
+
+	header { 
+
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100vh;
+	}
