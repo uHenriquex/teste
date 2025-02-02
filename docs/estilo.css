@@ -7,7 +7,8 @@
 }
 
 .larga {
-  width: 300px;
+  width: 300px; /* Nova imagem maior */
+  height: 250px; /* Mantendo altura igual às outras */
 }
 
 body {
@@ -30,17 +31,9 @@ h1 {
   height: 315px;
 }
 
-#pedro {
-  float: right;
-  margin-left: 10px;
-}
-
-#doa {
-  float: left;
-  margin-right: 10px;
-}
-
-section#imagens {
-  text-align: center;
-  clear: both;
+#imagens {
+  display: flex; /* Organiza as imagens na mesma linha */
+  justify-content: center; /* Centraliza as imagens */
+  align-items: center; /* Mantém o alinhamento vertical */
+  gap: 20px; /* Adiciona um espaçamento entre as imagens */
 }
