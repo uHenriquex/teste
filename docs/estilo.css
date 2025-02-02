@@ -5,11 +5,15 @@
 	margin: 0 auto;
 	object-fit: cover;
 }
+#doa {
+	float: left;	
+
+}
 body {
   background-color: #008B8B;
 }
 
-img#foto2 {
+#pedro {
   float: right;
 }
 
