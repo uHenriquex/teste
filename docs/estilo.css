@@ -1,20 +1,13 @@
 .meninos {
   width: 150px;
-	height: 250px;
-	border-radius: 15px;
-	margin: 0 auto;
-	object-fit: cover;
+  height: 250px;
+  border-radius: 15px;
+  object-fit: cover;
+  margin: 10px;
 }
-#doa {
-	float: left;	
 
-}
 body {
   background-color: #008B8B;
-}
-
-#pedro {
-  float: right;
 }
 
 header {
@@ -31,4 +24,19 @@ h1 {
 #vídeo-orochinho iframe {
   width: 560px;
   height: 315px;
+}
+
+#pedro {
+  float: right;
+  margin-left: 10px;
+}
+
+#doa {
+  float: left;
+  margin-right: 10px;
+}
+
+section#imagens {
+  text-align: center;
+  clear: both;
 }
