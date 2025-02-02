@@ -7,7 +7,7 @@
 }
 
 .larga {
-  width: 300px; /* Nova imagem maior */
+  width: 500px; /* Nova imagem maior */
   height: 250px; /* Mantendo altura igual às outras */
 }
 
@@ -35,5 +35,5 @@ h1 {
   display: flex; /* Organiza as imagens na mesma linha */
   justify-content: center; /* Centraliza as imagens */
   align-items: center; /* Mantém o alinhamento vertical */
-  gap: 20px; /* Adiciona um espaçamento entre as imagens */
+  gap: 300px; /* Adiciona um espaçamento entre as imagens */
 }
