@@ -35,5 +35,5 @@ h1 {
   display: flex; /* Organiza as imagens na mesma linha */
   justify-content: center; /* Centraliza as imagens */
   align-items: center; /* Mantém o alinhamento vertical */
-  gap: 300px; /* Adiciona um espaçamento entre as imagens */
+  gap: 285px; /* Adiciona um espaçamento entre as imagens */
 }
